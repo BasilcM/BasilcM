@@ -1,16 +1,21 @@
-## Hi there 👋
+# Basil Chacko Mathew
 
-<!--
-**BasilcM/BasilcM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Applied AI | Generative AI**
 
-Here are some ideas to get you started:
+I build data products and AI services that turn complex data into useful workflows and decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Machine learning, analytics, and decision support
+- LLM applications, retrieval-augmented generation (RAG), semantic search, and evaluation
+- Python APIs and AI service deployment
+
+## Tools
+Python · SQL · FastAPI · PostgreSQL · Qdrant · OpenAI APIs · AWS · Google Cloud
+
+## Background
+MSc in Data Science, Deakin University
+
+Based in Bengaluru, India.
+
+## Links
+[Portfolio](https://basilcm.github.io/MyPage/) · [GitHub](https://github.com/BasilcM)
